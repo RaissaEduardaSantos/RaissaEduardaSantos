@@ -13,6 +13,5 @@
   <h2><strong>SOCIAL:</h2>
 <div>
   <a href="https://www.instagram.com/rah_eduardaaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-sakoda-44018a28b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
